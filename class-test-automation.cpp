@@ -5,6 +5,8 @@ void invertedHalfPyramid();
 void fullPyramid();
 void invertedFullPyramid();
 int main()
+    
+    // Regards: Iftier Ahmed Anoy //
 {
     int ch;
     do
